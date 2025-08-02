@@ -4,7 +4,14 @@ public class Main {
     public static void main(String[] args) {
 //        MinOperations minOperations=new MinOperations();
 //        System.out.println(minOperations.minOperations(new String[]{"d1/","d2/","../","d21/","./"}));
-        FinalPrices finalPrices=new FinalPrices();
-        finalPrices.finalPrices(new int[]{8,4,6,2,3});
+//        FinalPrices finalPrices=new FinalPrices();
+//        finalPrices.finalPrices(new int[]{8,4,6,2,3});
+//        MakeTheStringGreat makeTheStringGreat=new MakeTheStringGreat();
+//        makeTheStringGreat.makeGood("nThYCFZCwfFzjNTsyYuUyYqvVStnxXfFnNdSsBQqPJNnwWnDdZfQqqFWwQqFXxIWXxchzfcGgDdjyHtziInNMEhHqQkKkwyQqgG");
+//
+//        MinimumStringLengthAfterRemovingSubstrings minimumStringLengthAfterRemovingSubstrings=new MinimumStringLengthAfterRemovingSubstrings();
+//        minimumStringLengthAfterRemovingSubstrings.minLength("ACBBD");
+        DecodeString decodeString=new DecodeString();
+        decodeString.decodeString("100[leetcode]");
     }
 }
